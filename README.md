@@ -1,4 +1,4 @@
-# google-scholar-crawler
+<!-- # google-scholar-crawler -->
 
 <p align="center"><img width="auto" src="https://github.com/TheKidPadra/google_scholar_crawler/blob/main/Assets/Google_crawl_faster_FI.png" /></p>
 
