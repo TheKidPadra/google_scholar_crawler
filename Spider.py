@@ -166,6 +166,16 @@ class Spider:
         else:
             return (False, score)
 
+#    def __requireThesis(self, t_score, c_score):
+#        score = self.weighting['title'] * t_score + self.weighting['content'] * c_score
+#        if (score > self.score_level):
+#            return (True, score)
+#        else:
+#            return (False, score)
+
+
+
+
 #    def __getPDF(self, url, title, year):
 #        res = requests.get(url)
 #        print "in __getPDF"
