@@ -1,4 +1,5 @@
 
+>Prior to installing pdfkit, it is necessary to download wkhtmltopdf. Please ensure that you have obtained the appropriate version of wkhtmltopdf from the provided link before proceeding with the installation.
 
 Initially, please clone this repository.
 
