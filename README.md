@@ -1,4 +1,6 @@
 
+
+>１. Record the title, year and URL ['title', 'year', 'url'] of the Paper on Google Search Page in CSV file format.
 >
 >２. Download links with tags (e.g. [PDF], [HTML]) from Google Search Page as PDF files
 
