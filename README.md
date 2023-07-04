@@ -1,4 +1,6 @@
 
+
+>This software application is designed for Mac and runs on Python 3.9.13. It utilizes various libraries, including requests, BeautifulSoup, and pdfkit. To ensure smooth installation, it is recommended to use pip for the installation process.
 >Prior to installing pdfkit, it is necessary to download wkhtmltopdf. Please ensure that you have obtained the appropriate version of wkhtmltopdf from the provided link before proceeding with the installation.
 
 Initially, please clone this repository.
