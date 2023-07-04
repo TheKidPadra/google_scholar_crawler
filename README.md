@@ -1,5 +1,11 @@
 
 
+Initially, please clone this repository.
+
+```
+$ git clone https://github.com/TheKidPadra/google_scholar_crawler.git
+```
+
 ## Instruction
 
 ### 1. Go to [Google Scholar Search](https://scholar.google.com/)
