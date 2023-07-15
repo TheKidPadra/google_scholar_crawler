@@ -53,7 +53,17 @@ Set too many pages will induce Google's robot check
 
 Run google_crawler.py in Terminal
 
+```
+$ python3 google_crawler.py
+```
 
+The data captured ('title', 'year', 'url',...) will be in the result.pickle
+
+Then, run csvNdownload.py in Terminal
+
+```
+$ python3 csvNdownload.py
+```
 
 Convert data to CSV file and store in CSV folder
 
