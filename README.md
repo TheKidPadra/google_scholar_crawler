@@ -1,4 +1,12 @@
+# google-scholar-crawler
 
+<p align="center"><img width="auto" src="https://github.com/TheKidPadra/google_scholar_crawler/blob/main/Assets/Google_crawl_faster_FI.png" /></p>
+
+This is the web crawler I have been developing to extract [Google Scholar](https://scholar.google.com/) articles for my bachelor's thesis. The purpose of this crawler is to gather data that will be utilized in my NLP model, allowing me to extract a context vector. This context vector will then be employed in my machine learning model for further analysis and processing.
+
+>１. Record the title, year and URL ['title', 'year', 'url'] of the Paper on Google Search Page in CSV file format.
+>
+>２. Download links with tags (e.g. [PDF], [HTML]) from Google Search Page as PDF files
 
 ## Get Started
 
